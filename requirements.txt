@@ -1,6 +1,6 @@
 streamlit
 python-dotenv
 langchain
-langchain-community
+langchain-community>=0.0.26
 langchain-groq
 groq
